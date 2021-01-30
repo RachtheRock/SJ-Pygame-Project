@@ -1,3 +1,6 @@
+# Trey Fischbach 01/30/2021
+# This program highlights the very basics of pygame. A rectange is drawn and can be moved around via the arrow keys.
+
 # We import pygame for use
 import pygame
 
