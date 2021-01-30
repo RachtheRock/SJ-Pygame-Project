@@ -61,8 +61,6 @@ class Rectangle(object):
         if keys[pygame.K_DOWN]:
             self.y += (self.speed)
 
-
-
 # This function ends the game
 def endGame():
     pygame.quit()
@@ -111,5 +109,7 @@ def game_loop():
 
         # This calls the draw function which draws the entire game
         draw()
-
+        
+# This calls the game loop function which runs the game
+# Notice that this is called last, once everything is defined
 game_loop()
