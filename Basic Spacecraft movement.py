@@ -1,3 +1,8 @@
+# Trey Fischbach 01/30/2021
+# This program highlights the very basics of pygame. Similar to the rectangle program, a shipship is drawn and can be moved around.
+# In order for this program to work, make sure that you have downloaded the spaceship.png file (also in the GitHub) and place the 
+# png in the same folder as your code.
+
 # We import pygame for use
 import pygame
 
