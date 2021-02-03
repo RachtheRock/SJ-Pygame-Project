@@ -1,6 +1,7 @@
 # Trey Fischbach 02/03/2021
 # This program is a sequal to the basic spacecraft movement
 # Utilizes text and movement bounds
+# This is what we will be going over in meeting 02/03/2021
 
 # We import pygame for use
 import pygame
